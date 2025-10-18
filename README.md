@@ -1,6 +1,6 @@
 # Daily DSA Practice
 
-This is my public log of practicing data structures and algorithms using java language. I'm solving problems every day and pushing whatever I work on here.
+This is my public log of practicing data structures and algorithms. I'm solving problems every day and pushing whatever I work on here.
 
 ## Why I'm doing this
 
